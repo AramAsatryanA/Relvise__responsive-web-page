@@ -1,0 +1,16 @@
+{
+  "name": "relvise__responsive-web-page",
+  "version": "1.0.0",
+  "description": "Fully Responsive Langing Page -- using HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d deploy"
+  },
+  "keywords": [],
+  "author": "Aram Asatryan",
+  "license": "ISC",
+  "homepage": "https://AramAsatryanA/github.io/Relvise__responsive-web-page",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
